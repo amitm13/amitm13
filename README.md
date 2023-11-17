@@ -5,11 +5,31 @@
 
 <p align="left"> <a href="https://twitter.com/amit_m13" target="blank"><img src="https://img.shields.io/twitter/follow/amit_m13?logo=twitter&style=for-the-badge" alt="amit_m13" /></a> </p>
 
-- 🔭 I’m currently working on **React JS / Vue JS / Laravel**
+👋 Hello, fellow coders! I'm Amit, a passionate full-stack developer with expertise in Laravel and React JS. 💻
 
-- 🌱 I’m currently learning **Node JS and MongoDB**
+🚀 As a Laravel enthusiast, I thrive on crafting scalable and efficient backend solutions. From architecting robust APIs to optimizing database performance, I take pride in building the backbone of web applications.
 
-- 💬 Ask me about **react-js, vuejs, laravel**
+🔍 On the frontend, I wield the power of React JS to create engaging and dynamic user interfaces. My goal is to deliver seamless user experiences through responsive and interactive designs.
+
+🌐 Whether it's developing RESTful APIs, implementing state-of-the-art frontend features, or ensuring the overall performance of web applications, I'm always up for the challenge.
+
+🛠️ My tech stack includes:
+
+Laravel 🚀
+React JS ⚛️
+MySQL 🗃️
+RESTful API design 🌐
+Git & GitHub 📂
+
+🔧 When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, and sharing my knowledge with the developer community.
+
+🌐 You can follow me on X(Twitter)
+𝕏 @amit_m13
+
+
+📫 Let's connect! Feel free to reach out for collaboration, coding discussions, or just to say hi. I'm always open to learning and growing with fellow developers.
+
+Happy coding! 🚀✨
 
 - 📫 How to reach me **mandaviyaamit3@gmail.com**
 
